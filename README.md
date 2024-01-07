@@ -5,6 +5,6 @@ To run this app locally:
 - From the projects root directory install the required packages, for example with ```pip install -r requirements.txt```
 - Navigate to ```app/```
 - Execute the command ```streamlit run main.py```
-- You should now have the app running locally on you laptop. In your web browser go to [localhost:8501](https://localhost:8501)
+- You should now have the app running locally. In your web browser go to [localhost:8501](https://localhost:8501)
 
 For more information on running Streamlit applications, visit [Streamlit's website](https://docs.streamlit.io/).
